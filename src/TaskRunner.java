@@ -46,7 +46,9 @@ public class TaskRunner {
                 System.out.println("Enter Array of chars and count of pages");
 //                System.out.println(Cde.);
                 break;
+
             case 4:
+                System.out.println("404");
                 break;
             case 5:
                 break;
